@@ -43,14 +43,14 @@ difference = num_one - num_two
 product = num_one * num_two
 division = num_one / num_two
 modulus = num_one % num_two
-exponent = (num_one)^num_two
+exponent = (num_one) ** num_two
 floor_division = num_one // num_two
 #q12
 radius = 30
 #i
-area = 3.142 * (radius^2)
+area = 3.142 * (radius ** 2)
 circumference = 2 * 3.142 * radius
 rad = input("What is the radius")
-Area = 3.142 * (rad^2)
+Area = 3.142 * (rad ** 2)
 
 
